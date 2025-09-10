@@ -1,0 +1,14 @@
+1) The ages of Frank Forde and Ben Chifley differ by 16 years. 6 years ago, Frank Forde was 3 times as old as Ben Chifley. What is the present age of Frank Forde?
+
+30
+20
+25
+15
+
+answer -- 30
+Let's take the present age of the elder person = x 
+and the present age of the younger person = x – 16
+(x – 6) = 3 (x-16-6)
+=> x – 6 = 3x – 66
+=> 2x = 60
+=> x = 60/2 = 30
