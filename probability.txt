@@ -1,0 +1,9 @@
+NOTE :
+Multiplication (*) -- 👉 Use multiplication when calculating the probability of both events happening together (AND rule).
+*** If A and B are independent (the outcome of A doesn’t affect B)
+
+Addition (+) -- 👉 Case A: Use addition when calculating the probability of either event happening (OR rule).
+*** If the events are mutually exclusive (they cannot happen at the same time):
+
+Case B: If the events are not mutually exclusive (can happen together):
+P(A or B) = P(A) + P(B) - P(A and B)
