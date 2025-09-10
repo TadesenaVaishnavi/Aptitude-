@@ -1,0 +1,19 @@
+1) Anju, Manju, and Sanju together can reap a field in 6 days. If Anju can do it alone in 10 days and Manju in 24 days. In how many days will Sanju alone be able to reap the field?
+
+35 days
+32 days
+40 days
+36 days
+
+answer -- 40 
+explaination --
+Anju+ Manju+ Sanju = 6 days
+Anju = 10 days
+Manju= 24 days
+LCM= Total work= 120 units
+Efficiency of Anju+ Manju+ Sanju= 120/6= 20 units/day
+Efficiency of Anju = 120/10= 12 units/day
+Efficiency of Manju= 120/24= 5 units/day
+Efficiency of Sanju= 20-12-5= 3 units/day
+Sanju can complete the work in 120/3= 40 days
+
