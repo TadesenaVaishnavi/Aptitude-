@@ -1,0 +1,13 @@
+1)see more-- By selling 15 oranges, a fruit seller gains the selling price of 1 orange. Calculate his gain percentage
+
+6.14%
+8.41%
+7.14%
+8%
+
+
+SP of 1orange = 1
+SP of 15 orange = 15
+Profit = 1
+CP = 15 – 1 = 14
+Profit % = (1/14)×100 = 7.14%
