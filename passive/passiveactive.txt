@@ -1,0 +1,18 @@
+1) They first sun-dried the garbage for one to three days to bring down the moisture level.  
+
+--> The moisture level was brought down by sun-drying the garbage for one to three days
+
+--> The garbage was first sun dried for one to three days to bring down the moisture level.
+
+
+--> One to three days of sun-drying brought down the moisture level of the garbage.
+
+
+--> The moisture level of the garbage came down when it was sun-dried for one to three days
+
+answer -- The garbage was first sun dried for one to three days to bring down the moisture level.
+
+explaination -- Here in the question,the subject is "they" and the object is "garbage"
+When the voice is changed from active to passive the following rule is applied.
+use ‘the garbage’ as subject of the passive voice and use structure “auxiliary + past participle".
+The right answer is "The garbage was first sun dried for one to three days to bring down the moisture level."
