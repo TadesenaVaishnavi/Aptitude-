@@ -1,0 +1,22 @@
+NOTE: inning --> An inning is the period during which a team takes its turn to bat.
+
+1) A batsman makes a score of 87 runs in the 17th inning and thus increases his average by 3. Find his average after the 17th inning.
+
+54
+39
+27
+41
+
+  
+ANSWER --  39
+Let the average after 17th inning = x
+Then average after 16th inning = x - 3
+16(x-3)+87 = 17x 
+x = 87 - 48 = 39 
+
+Average = (Total Runs) ÷ (Number of Innings)
+   x = [16(x -3) + 87] ÷ 17
+
+
+
+  
