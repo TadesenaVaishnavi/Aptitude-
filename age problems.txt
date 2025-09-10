@@ -1,3 +1,11 @@
+Note of word : 
+--> differ -----== Differ by 16 years" means the difference in their ages is 16
+--> thrice - 3 twice - 2 
+--> 
+-->
+-->
+
+
 1) The ages of Frank Forde and Ben Chifley differ by 16 years. 6 years ago, Frank Forde was 3 times as old as Ben Chifley. What is the present age of Frank Forde?
 
 30
@@ -12,3 +20,23 @@ and the present age of the younger person = x – 16
 => x – 6 = 3x – 66
 => 2x = 60
 => x = 60/2 = 30
+
+
+2) Ten years ago, John Curtin was thrice as old as Joseph Cook was. But 10 years hence, he will be only twice as old. Find John Curtin's present age.
+
+80 years
+70 years
+60 years
+76 years
+
+answer -- 70 years
+
+
+Let John's present age be x years and Joseph's present age be y years.
+Then, according to the first condition,x-10=3(y-10)
+=> x-3y=-20
+Now, John's age after 10 years = (x+10) years
+Joseph's age after 10 years=(y+10) years(x+10)=2(y+10)
+=> x-2y=10
+x=70 and y=30
+John's age=70 years.
