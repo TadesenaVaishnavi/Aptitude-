@@ -1,0 +1,9 @@
+Martha wrote too (a) slow, (b) slowly. She always writes (c) slow, (d) slowly.
+
+b and d
+b and c
+a and c
+a and d
+
+Answer -- b and d 
+The word “slowly” is used to describe the actions “wrote, writes”.
