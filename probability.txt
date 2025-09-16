@@ -7,3 +7,24 @@ Addition (+) -- 👉 Case A: Use addition when calculating the probability of ei
 
 Case B: If the events are not mutually exclusive (can happen together):
 P(A or B) = P(A) + P(B) - P(A and B)
+
+
+
+1) In how many ways can 7 beads be strung into a necklace?
+
+2520
+5040
+720
+360
+
+Answer: 360
+
+Solution 1:
+n = 7
+For circular arrangement,
+number of arrangement = (n-1)! = 6!
+since the necklace can be clockwise or anticlockwise
+6!/2 = 360
+
+
+
