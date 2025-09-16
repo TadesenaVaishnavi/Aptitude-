@@ -1,0 +1,15 @@
+What least value should be given to * so that the number 145*603 is exactly divisible by 9?
+
+2
+5
+8
+7
+
+
+Ans: 8
+
+Solution 1:
+A number will be divisible by 9 if the sum of digits of that number is divisible by 9. 
+∴ for this number, 1 + 4 + 5 + * + 6 + 0 + 3 = 19 + * 
+∴ 19 + * = 27. (next number divisible by 9 after 18).
+Hence, * = 8.
