@@ -1,0 +1,8 @@
+# SEE MORE
+(1)Train overtaking a person
+Train length = 𝐿, Person speed = v, Train speed = u
+Time taken = 𝐿/𝑢−𝑣 (because they move in the same direction).
+
+(2)Trains crossing each other
+If two trains of length 𝐿1 and 𝐿2 cross each other in t seconds:
+(L1+L2)=(Relative Speed)×t
