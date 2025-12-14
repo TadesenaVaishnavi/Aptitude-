@@ -1,0 +1,167 @@
+Verbs 
+are action words
+
+v- action ---> ex: waving, singing
+   state ---> ex: loving, hating, impressing, agreeing
+   occurence ---> ex: are, am, was, had
+
+⚠️ Exam trap
+
+✔ YES → Use V3
+❌ NO → Don’t use V3
+-------------====
+❌ She has went
+✅ She has gone 
+
+❌ The work is do
+✅ The work is done
+
+❌ He did gone home
+✅ He did go home
+
+❌ She written the exam yesterday
+✅ She wrote the exam yesterday
+
+❌ The letter was wrote
+✅ The letter was written
+
+❌ She is write a letter
+✅ She is writing a letter
+
+
+
+
+🔑 REMEMBER THESE GOLDEN RULES
+
+1️⃣ has / have / had → V3
+2️⃣ is / was / were → V3 (passive)
+3️⃣ did → V1
+4️⃣ V4 (-ing) is used only with is/am/are for action in progress
+
+
+
+when to use, which verb
+------------------------
+| Time words                      | Verb to use        |
+| ------------------------------- | ------------------ |
+| yesterday, last, ago            | **V2 (past)**      |
+| now, currently, at present      | **is/am/are + V4** |
+| already, just, yet, ever, never | **has/have + V3**  |
+| tomorrow, next                  | **will + V1**      |
+| every day, usually, always      | **V1 / V5**        |
+
+
+V1 --> Begin, choose
+V2 --> Began, chose, worked
+V3 --> begun, chosen
+V4 --> beginning, choosing
+V5 --> begins, chooses
+
+v1/v5 -- usually use, routie, daily 
+v2 -- past== yesterday, last,ago (experience, reacent actions, completed, result important now)
+v3 -- has,have,had -- ed
+v4 -- is,am,are,was -- ing
+
+*****
+| Form   | Name                        | Verb      |
+| ------ | --------------------------- | --------- |
+| **V1** | Base / Present              | **go**    |
+| **V2** | Past tense                  | **went**  |
+| **V3** | Past participle             | **gone**  |
+| **V4** | Present participle / Gerund | **going** |
+| **V5** | 3rd person singular         | **goes**  |
+
+
+do, did, done, doing, does
+
+| V1 (Present) | **V2 (Past)**  | V3      |
+| ------------ | -------------- | ------- |
+| be           | **was / were** | been    |
+| begin        | **began**      | begun   |
+| choose       | **chose**      | chosen  |
+| come         | **came**       | come    |
+| do           | **did**        | done    |
+| eat          | **ate**        | eaten   |
+| find         | **found**      | found   |
+| get          | **got**        | got     |
+| give         | **gave**       | given   |
+| go           | **went**       | gone    |
+| have         | **had**        | had     |
+| know         | **knew**       | known   |
+| make         | **made**       | made    |
+| say          | **said**       | said    |
+| see          | **saw**        | seen    |
+| take         | **took**       | taken   |
+| think        | **thought**    | thought |
+| write        | **wrote**      | written |
+
+
+
+| V1    | **V2**                                       |
+| ----- | -------------------------------------------- |
+| bring | **brought**                                  |
+| buy   | **bought**                                   |
+| build | **built**                                    |
+| catch | **caught**                                   |
+| feel  | **felt**                                     |
+| keep  | **kept**                                     |
+| leave | **left**                                     |
+| lose  | **lost**                                     |
+| meet  | **met**                                      |
+| pay   | **paid**                                     |
+| put   | **put**                                      |
+| read  | **read** (same spelling, diff pronunciation) |
+| run   | **ran**                                      |
+| sell  | **sold**                                     |
+| sit   | **sat**                                      |
+| stand | **stood**                                    |
+| tell  | **told**                                     |
+| win   | **won**                                      |
+
+
+
+| V1     | **V2**               |
+| ------ | -------------------- |
+| work   | **worked**           |
+| call   | **called**           |
+| help   | **helped**           |
+| play   | **played**           |
+| open   | **opened**           |
+| close  | **closed**           |
+| start  | **started**          |
+| finish | **finished**         |
+| join   | **joined**           |
+| learn  | **learned / learnt** |
+
+
+
+VOICE
+``````
+Shows who does the action and who receives the action
+
+🟢 ACTIVE VOICE
+subject does the action
+
+subject + verb + object
+ex: 
+She writes a letter.
+The company conducted the test.
+vyshu completed the project.
+
+🔵 PASSIVE VOICE
+
+object receives the action 
+
+object + be(is/was/has been) + V3 + by + subject
+ex:
+A letter is written by her.
+The test was conducted by the company.
+The project was completed by Vaishnavi.
+
+| Tense              | Active      | Passive          |
+| ------------------ | ----------- | ---------------- |
+| Present Simple     | writes      | is written       |
+| Past Simple        | wrote       | was written      |
+| Future             | will write  | will be written  |
+| Present Perfect    | has written | has been written |
+| Present Continuous | is writing  | is being written |
