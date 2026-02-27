@@ -6,8 +6,6 @@ Future → will + V1
 had → V3
 
 
-
-
 Verbs 
 are action words
 
@@ -351,6 +349,87 @@ Do they play cricket daily?
 Past time word yesterday → did not + V1
 
 Correct sentence:
-
 She did not go yesterday.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Error correction
+~~~~~~~~~~~~~~~~~~~
+1. Subject-Verb Agreement --->
+Rule: A singular subject takes a singular verb, and a plural subject takes a plural verb.
+EX: She (plays) the piano.✅
+    She play the piano. ❌
+
+2. Incorrect Use of Tenses --->
+The verb tense must match the time of action.
+I saw him yesterday ✅
+I see him yesterday ❌
+
+3. Wrong Use of Articles (a, an, the) --->
+a--> before consonant (e.g., a university)
+an--> before vowel (e.g., an apple)
+the--> specific things or unique things (e.g., the sun)
+ex: She is a doctor. ✅
+    She is an doctor. ❌
+
+4. pronoun-Antecedent Agreement --->
+Rule: A pronoun must agree with its antecedent in number and gender.
+Every student must bring his or her ID card.✅
+Every student must bring their ID card. ❌
+
+***5. Misplaced and Dangling Modifiers
+Rule: Modifies should be placed next to the word they describe
+The man driving the car was wearing a red cap. ✅ 
+The man was wearing a red cap driving the car. ❌
+
+6. Parellism (Consistency in sentence Structure)
+Rule: Item in a list or series should be in the same grammatical form.
+He likes swimming, running, cycling.✅
+He likes swimming, running, cycle.❌
+
+7. Double Negatives
+Rule: Avoid using two negatives in a sentenc8e
+She has nothing to say. ✅
+She doesn't have nothing to say.❌
+
+8. Incorrect prepositions
+Rule: use appropriate prepositions as per context.
+I am interested in music.✅
+I am interested on music.❌
+
+9. Redundant Words(Unnecessary Repetition)
+Rule: Avoid using words that repeat the same idea.
+He returned home ✅ (Remove back)
+He returned back home❌
+
+10. Confusing 'Who' vs 'Whom'
+who is used as a subject (like 'he')
+Whom is used as an object (like 'him')
+
+Who is calling me? ✅ 
+whom is calling me? ❌
+
+11. Incorrect Use of "Much" vs "Many"
+Rule: 
+much for uncountable nouns.
+many for countable nouns.
+
+There aren't many books in the library. ✅ 
+There aren't much books in the library. ❌
+
+She doesn't have much patience. ✅ 
+She doesn't have many patience. ❌
+
+12. Incorrect Use of "Less" vs "Fewer"
+Rule:
+less for uncountable nouns.
+fewer for countable nouns.
+
+There are fewer students in the classroom today. ✅ 
+There are less students in the classroom today. ❌
+
+I drank less water today. ✅ 
+I drank fewer water today. ❌ 
+ 
+
+
 
